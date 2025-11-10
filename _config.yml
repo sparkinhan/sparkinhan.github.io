@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Hong Han (韩鸿)"
 description              : "Ph.D. Student @ Shandong University"
-repository               : "hh200228/sparkin.github.io"
+repository               : "sparkinhan/sparkinhan.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : hh200228
+  github           : sparkinhan
   google_plus      :
   keybase          :
   instagram        :
