@@ -26,7 +26,7 @@ My research interests are primarily focused on Pronunciation Assessment, Multimo
 - *2025.11*: &nbsp;🎉🎉 One paper is accepted by AAAI 2026 (CCF-A)! 
 
 # 📝 Publications 
-
+<!-- Paper1 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/HIA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -34,8 +34,7 @@ My research interests are primarily focused on Pronunciation Assessment, Multimo
 
 **Hong Han**, Hao-chen Pei, Zhao-Zheng Nie, Xin Luo, Xin-Shun Xu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+_AAAI (CCF-A)_
 </div>
 </div>
 
