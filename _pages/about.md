@@ -45,7 +45,7 @@ _AAAI (CCF-A)_
 - *2024.09* Outstanding Graduates of SDU. 
 
 # 📖 Educations
-- *2024.09 - present*, Ph.D, Artificial Intelligence, School of Software, Shandong University. 
+- *2024.09 - present*, M., Artificial Intelligence, School of Software, Shandong University. 
 - *2020.09 - 2024.06*, B.Eng., Data Science and Big Data Technology, School of Software, Shandong University.
 
 
