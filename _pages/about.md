@@ -33,7 +33,7 @@ My research interests are primarily focused on Pronunciation Assessment, Multimo
 
 [Multi-granularity Interactive Attention Framework for Residual Hierarchical Pronunciation Assessment]()
 
-**Hong Han**, Hao-chen Pei, Zhao-Zheng Nie, Xin Luo, Xin-Shun Xu
+**Hong Han**, Hao-Chen Pei, Zhao-Zheng Nie, Xin Luo, Xin-Shun Xu
 
 _AAAI (CCF-A)_
 </div>
