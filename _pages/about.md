@@ -41,8 +41,9 @@ _AAAI (CCF-A)_
 
 
 # 🎖 Honors and Awards
-- *2024.10* Outstanding Graduate Student of SDU. 
-- *2024.09* Outstanding Graduates of SDU. 
+- *2024.09* First Class of Academic Scholarship, Shandong University.
+- *2024.01* Outstanding Graduate, Shandong Province.
+- *2024.01* Outstanding Graduates, Shandong University. 
 
 # 📖 Educations
 - *2024.09 - present*, M., Artificial Intelligence, School of Software, Shandong University. 
