@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a M. student in Shandong University ([SDU](https://www.sdu.edu.cn/index.htm)), supervised by Prof. [Xin-Shun Xu](https://faculty.sdu.edu.cn/xuxinshun/zh_CN/index.htm), and a member of [MIMA Lab](https://mima.sdu.edu.cn/), led by Prof. [Xin-Shun Xu](https://faculty.sdu.edu.cn/xuxinshun/zh_CN/index.htm).
+I am currently a Ph.D student in Shandong University ([SDU](https://www.sdu.edu.cn/index.htm)), supervised by Prof. [Xin-Shun Xu](https://faculty.sdu.edu.cn/xuxinshun/zh_CN/index.htm), and a member of [MIMA Lab](https://mima.sdu.edu.cn/), led by Prof. [Xin-Shun Xu](https://faculty.sdu.edu.cn/xuxinshun/zh_CN/index.htm).
 
 
 My research interests are primarily focused on Pronunciation Assessment, Multimodal Large Language Models, as well as Continual Learning in Multilingual ASR.
@@ -46,7 +46,7 @@ _AAAI (CCF-A)_
 - *2024.01* Outstanding Graduates, Shandong University. 
 
 # 📖 Educations
-- *2024.09 - present*, M., Artificial Intelligence, School of Software, Shandong University. 
+- *2024.09 - present*, Ph.D, Artificial Intelligence, School of Software, Shandong University. 
 - *2020.09 - 2024.06*, B.Eng., Data Science and Big Data Technology, School of Software, Shandong University.
 
 
