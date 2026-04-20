@@ -52,3 +52,4 @@ _AAAI (CCF-A)_
 
 # 💻 Professional Activities (Program Committee & Reviewer)
 - AAAI Conference on Artificial Intelligence (**AAAI**): 2026
+- International Joint Conference on Artificial Intelligence (**IJCAI**): 2026
